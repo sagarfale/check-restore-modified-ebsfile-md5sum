@@ -1,5 +1,6 @@
 ## Author : Sagar Fale 
 ## Date :  30-Jan-2023
+## this script is only for education purpose only
 ## usage : sh check-restore-modified-ebsfile-md5sum.sh <md5sum_value>
 
 #!/bin/bash
