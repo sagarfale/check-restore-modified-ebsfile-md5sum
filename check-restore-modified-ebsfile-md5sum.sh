@@ -82,7 +82,3 @@ if [ "$m1" != "$m2" ] ; then
     sendemail_notify ${attachement_name}
     exit 1
 fi
-
-
-
-
